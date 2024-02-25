@@ -5,3 +5,4 @@ Starting with
 
 1) Conditional Value at Risk
 2) Entropic Value at Risk
+3) Benchmark Relative Portfolio Optimization (DOW JONES Industrial Average)
