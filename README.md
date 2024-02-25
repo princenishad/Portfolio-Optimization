@@ -4,4 +4,6 @@ In this repository, we have taken the liberty to explore some mathematical tools
 Starting with 
 
 1) Conditional Value at Risk
-2) Entropic Value at Risk
+   Optimization system : cvar_risk.docx and python notebook : 
+
+3) Entropic Value at Risk
